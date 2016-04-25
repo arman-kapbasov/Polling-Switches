@@ -1,0 +1,16 @@
+#This file is used to monitor coredumps
+#format is: [timestamp] [switch coredump name]
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.1003.1461045831000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.1026.1461045832000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.1061.1461045832000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.1081.1461045833000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.1131.1461045834000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/core.ops-udpfwd.0.62c8fe4e7cac4c5dabf8f92daeb79690.423.1461045831000000.xz
+22/04/2016 04:29:23 PM 151.1.1.1.coredump/processed_core_files.cfl
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.423.1461045832000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.689.1461045832000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.698.1461045833000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.708.1461045833000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.716.1461045834000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/core.ops-udpfwd.0.cc52f43921af4712b9b15e6086bc64fc.727.1461045835000000.xz
+22/04/2016 04:29:24 PM 151.1.1.5.coredump/processed_core_files.cfl
